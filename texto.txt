@@ -1,0 +1,15 @@
+<table width='322' border='1' cellpadding='2' cellspacing='1' bordercolor='#000000' bgcolor='#FFFFFF'>
+  <tr>
+    <td width='312'><div align='center'>Luis Angel</div></td>
+  </tr>
+  <tr>
+    <td><div align='center'>Hola</div></td>
+  </tr>
+</table><table width='322' border='1' cellpadding='2' cellspacing='1' bordercolor='#FF1493' bgcolor='#FF1493'>
+  <tr>
+    <td width='312'><div align='center'>Cinthia</div></td>
+  </tr>
+  <tr>
+    <td><div align='center'>Buenas Noches</div></td>
+  </tr>
+</table>
